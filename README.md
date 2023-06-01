@@ -132,5 +132,10 @@ Some codes are based on the publicly available codebase https://github.com/yl-19
 
 ## Citation
 ```
-
+@inproceedings{shin2023local,
+  title={Local Connectivity-Based Density Estimation for Face Clustering},
+  author={Shin, Junho and Lee, Hyo-Jun and Kim, Hyunseop and Baek, Jong-Hyeon and Kim, Daehyun and Koh, Yeong Jun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2023}
+}
 ```
