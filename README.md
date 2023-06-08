@@ -1,5 +1,5 @@
 # Local Connectivity-Based Density Estimation for Face Clustering
-This repo contains an official implementation for CVPR'23 paper "Local Connectivity-Based Density Estimation for Face Clustering".
+This repo contains an official implementation for CVPR'23 paper "[Local Connectivity-Based Density Estimation for Face Clustering](https://openaccess.thecvf.com/content/CVPR2023/papers/Shin_Local_Connectivity-Based_Density_Estimation_for_Face_Clustering_CVPR_2023_paper.pdf)".
 
 ![](https://raw.githubusercontent.com/illian01/LCE-PCENet/main/assets/overview.jpg)
 
