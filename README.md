@@ -12,7 +12,7 @@ proposed clustering method employs density-based clustering, which maintains edg
 - Pytorch = 1.10.2
 ```
 conda install pytorch==1.10.2 cudatoolkit=11.3 -c pytorch
-pip install -r requriements.txt
+pip install -r requirements.txt
 ```
 
 ## Dataset
